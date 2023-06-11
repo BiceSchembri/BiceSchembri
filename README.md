@@ -1,4 +1,10 @@
-### Hi there 👋
+### About me 👋
+
+I am a trainee at BeCode Ghent, on my way to complete an intensive Junior Web Developer course with a focus on Backend. I like to see the logic of how things work behind the scenes - how we go from storing data, to building connections, to sharing information.
+
+My name is Italian, but I have heard it pronounced in many different ways by now. Over the last ten years I have lived in several different countries, which meant learning new things (and new words!) almost every day. It meant changing jobs, too - from administrative assistant, to library help, to translator.
+
+My next step will be to combine my past experience with my new tech skills, and to keep diving deep into backend languages and frameworks.
 
 <!--
 **BiceSchembri/BiceSchembri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
