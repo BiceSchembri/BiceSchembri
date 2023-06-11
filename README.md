@@ -1,4 +1,4 @@
-### About me 👋
+### About me :clipboard:
 
 I am a trainee at BeCode Ghent, on my way to complete an intensive Junior Web Developer course with a focus on Backend. I like to see the logic of how things work behind the scenes - how we go from storing data, to building connections, to sharing information.
 
