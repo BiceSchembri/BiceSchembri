@@ -1,22 +1,19 @@
 ### About me :clipboard:
 
-I am a trainee at BeCode Ghent, on my way to complete an intensive Junior Web Developer course with a focus on Backend. I like to see the logic of how things work behind the scenes - how we go from storing data, to building connections, to sharing information.
+I am a trainee at BeCode Ghent, on my way to complete an intensive web developer course with a focus on backend languages. I like to see the logic of how things work behind the scenes - how we go from storing data, to building connections, to sharing information.
 
 My name is Italian, but I have heard it pronounced in many different ways by now. Over the last ten years I have lived in several different countries, which meant learning new things (and new words!) almost every day. It meant changing jobs, too - from administrative assistant, to library help, to translator.
 
 My next step will be to combine my past experience with my new tech skills, and to keep diving deep into backend languages and frameworks.
 
-<!--
-**BiceSchembri/BiceSchembri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🖥️ Skills
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### 📚 Currently learning
+
+
+
