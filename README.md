@@ -1,10 +1,10 @@
 ### About me :clipboard:
 
-I am a trainee at BeCode Ghent, on my way to complete an intensive web developer course with a focus on backend languages. I like to see the logic of how things work behind the scenes - how we go from storing data, to building connections, to sharing information.
+I am a trainee at BeCode Ghent, on my way to complete an intensive web developer course with a focus on **backend languages**. I like to see the logic of how things work behind the scenes - how we go from storing data, to building connections, to sharing information.
 
-My name is Italian, but I have heard it pronounced in many different ways by now. Over the last ten years I have lived in several different countries, which meant learning new things (and new words!) almost every day. It meant changing jobs, too - from administrative assistant, to library help, to translator.
+My name is Italian, but I have heard it pronounced in many different ways by now. Over the last ten years I have lived in several different countries, which meant **learning new things** (and new words!) almost every day. It meant changing jobs, too - from administrative assistant, to library help, to translator.
 
-My current goal is to keep diving deep into backend languages and frameworks, and move on to software development. 
+My current goal is to keep diving deep into backend languages and frameworks, and move on to **software development**. I wish to contribute to building solutions for a fairer world, bit by bit.
 
 #### 🖥️ Working with
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -14,9 +14,14 @@ My current goal is to keep diving deep into backend languages and frameworks, an
 #### 📚 On my way to learn
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-#### Main motivators
-♻️ Sustainable practices
-💬 Open communication
+#### 🗄️ My projects
+
+- https://github.com/BiceSchembri/shiver-down-the-bookspine
+- https://github.com/BiceSchembri/express-API-tattoo
+
+#### 🦾 What motivates me
+- ♻️ Sustainable practices
+- 💙 Positive social impact
 
 
 
