@@ -26,7 +26,11 @@ My current goal is to keep diving deep into backend languages and frameworks, an
 #### 🗄️ My projects
 
 - [Resource collection with Laravel and Tailwind](https://github.com/BiceSchembri/shiver-down-the-bookspine)
-- [BAll-backend API with Express](https://github.com/BiceSchembri/express-API-tattoo)
+- [All-backend API with Express](https://github.com/BiceSchembri/express-API-tattoo)
+
+#### 🖊️ Things I wrote
+- [How I used Postman to test my Express API](https://dev.to/biceschembri/how-i-used-postman-to-test-my-express-api-1bk0)
+- [A few funny posts on translation and localization - in Italian](https://www.tdm-magazine.it/author/beatrice-schembri/)
 
 #### 🦾 What motivates me (besides getting things done)
 - ♻️ Sustainable practices
