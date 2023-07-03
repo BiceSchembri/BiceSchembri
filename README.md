@@ -1,6 +1,6 @@
 ### ℹ️ About me
 
-I am a trainee at [BeCode](https://becode.org/), on my way to complete an intensive junior developer course with a focus on **backend languages**. I like making things work behind the scenes - how we go from safely storing data, to building connections, to making information accessible.
+I am a **junior backend developer** trained at [BeCode](https://becode.org/) in Ghent, BE. I like making things work behind the scenes - how we go from safely storing data, to building connections, to making information accessible.
 
 My name is Italian, but I have heard it pronounced in many different ways by now. Over the last ten years I have lived in several different countries, which meant **learning new things** (and new words!) almost every day. And curiosity stuck well with me.
 
