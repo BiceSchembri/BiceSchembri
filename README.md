@@ -1,6 +1,6 @@
 ### ℹ️ About me
 
-I am a **junior backend developer** interested in web applications and software solutions. After a training at [BeCode](https://becode.org/) in Ghent, BE, I am now an intern working with C# .NET (ASP.NET Core MVC, REST APIs, Azure DevOps). 
+I am a **junior backend developer** interested in web applications and software solutions. After a training at [BeCode](https://becode.org/) in Ghent, BE, I did a 3-month internship working with C# .NET (ASP.NET Core MVC, REST APIs, Azure DevOps). 
 
 I wanted to learn how things work behind the scenes - how we go from safely storing data, to building connections, to making information accessible. I have changed a few countries, jobs, and languages - and curiosity has been serving me well!
 
@@ -33,7 +33,6 @@ My current goal is to keep diving deep into backend languages and frameworks. I 
 
 #### 🖊️ Things I wrote
 - [How I used Postman to test my Express API](https://dev.to/biceschembri/how-i-used-postman-to-test-my-express-api-1bk0)
-- [A few funny posts on translation and localization - in Italian](https://www.tdm-magazine.it/author/beatrice-schembri/)
 
 #### 🦾 What motivates me (besides getting things done)
 - ♻️ Sustainable practices
